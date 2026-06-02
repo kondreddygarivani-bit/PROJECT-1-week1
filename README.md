@@ -3,13 +3,13 @@ Problem Statement
 Analyze a real-world dataset to identify patterns, trends, and relationships between variables, answer business-related questions, and provide actionable insights through data visualization and statistical analysis.
 
 Objectives
-Understand the dataset structure
-Clean and preprocess data
-Handle missing values and duplicates
-Explore relationships between variables
-Identify trends and patterns
-Generate business insights
-Support data-driven decision-making
+Understand the dataset structure,
+Clean and preprocess data,
+Handle missing values and duplicates,
+Explore relationships between variables,
+Identify trends and patterns,
+Generate business insights,
+Support data-driven decision-making.
 
 
 Workflow:
