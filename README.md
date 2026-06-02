@@ -13,32 +13,30 @@ Support data-driven decision-making
 
 
 Workflow:
-Data Collection
-Data Loading
-Data Cleaning
-Missing Value Treatment
-Duplicate Removal
-Exploratory Data Analysis (EDA)
-Data Visualization
-Trend Analysis
-Business Question Analysis
-Insight Generation
-Final Report Preparation
+Data Collection,
+Data Loading,
+Data Cleaning,
+Missing Value Treatment,
+Duplicate Removal,
+Exploratory Data Analysis (EDA),
+Data Visualization,
+Trend Analysis,
+Final Report Preparation.
 
 
 Learning Outcomes
 
 After completing this project, you will gain knowledge of:
 
-Data Analysis
-Data exploration techniques
-Descriptive statistics
-Pattern recognition
-Data Cleaning
-Missing value handling
-Duplicate removal
-Data transformation
-Visualization
-Creating meaningful charts
+1.Data Analysis
+2.Data exploration techniques
+3.Descriptive statistics
+4.Pattern recognition
+5.Data Cleaning
+6.Missing value handling
+7.Duplicate removal
+8.Data transformation
+9.Visualization
+10.Creating meaningful charts
 Interpreting graphical insights
 Communicating findings effectively
