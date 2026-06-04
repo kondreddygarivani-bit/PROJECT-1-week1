@@ -26,8 +26,6 @@ Final Report Preparation.
 
 Learning Outcomes
 
-After completing this project, you will gain knowledge of:
-
 1.Data Analysis
 2.Data exploration techniques
 3.Descriptive statistics
